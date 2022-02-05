@@ -1,2 +1,2 @@
-<h1> Some Vanilla Javascript Project </p>
+<h1> Vanilla Javascript Project </p>
 <p> Comming soon...</p>
