@@ -1,7 +1,7 @@
 
 <h1>Vanilla Javascript Project</h1>
-<0l>
+<ol>
     <li>
         Javascript Calculator : https://digital-smart-calculator.netlify.app/
     </li>
-</0l>
+</ol>
